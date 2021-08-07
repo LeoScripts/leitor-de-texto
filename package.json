@@ -1,0 +1,19 @@
+{
+  "name": "leitor-de-texto",
+  "version": "1.0.0",
+  "description": "Leittor de texto de uso geral em varios idiomas, mas contruido com o intuito de me ajudar a aprender o inglês",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoScripts/leitor-de-texto.git"
+  },
+  "author": "Leandro Cavalcante (LeoScripts)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoScripts/leitor-de-texto/issues"
+  },
+  "homepage": "https://github.com/LeoScripts/leitor-de-texto#readme"
+}
