@@ -33,8 +33,9 @@ h3{
 }
 
 select {
-  background-color: #fdd5ef;
+  background-color: #b155e73a;
   border: 0;
+  border-radius: 20px;
   color: #1A2232;
   font-size: 12px;
   height: 30px;
