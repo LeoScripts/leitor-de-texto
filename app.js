@@ -19,6 +19,11 @@ const ler = document.querySelector('#ler')
 //selecionando textarea pra receber o texto digitado nele
 const textArea = document.querySelector('textarea')
 
+//selecionando o footer
+const footer = document.querySelector('footer')
+
+
+
 
 //array com imagens e textos que seram usados 
 const expressaoHumana = [
@@ -79,16 +84,21 @@ let voices = []
 //adicionando pacote colecao idioma de vozes
 speechSynthesis.addEventListener('voiceschanged', () => {
     voices = speechSynthesis.getVoices()
+    console.log(voices)
 
+
+
+    //criando itens no select
     voices.forEach(({ name, lang }) => {
         //criando o elemento option
         const option = document.createElement('option')
 
-        option.value = name
+        option.value = name;
+
+
+
+
         option.textContent = `${lang} | ${name}`
-
-
-        
 
         //inserindo as options na select
         idiomas.appendChild(option)   
@@ -115,3 +125,4 @@ ler.addEventListener('click', ()=>{
     inserindoTexto(textArea.value)
     somDoTexto()
 })
+
