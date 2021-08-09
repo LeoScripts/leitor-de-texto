@@ -2,8 +2,10 @@
 Leitor de texto de uso geral em varios idiomas, mas contruido com o intuito de me ajudar no inglês e de ensinar meus filhos.
 
 <h2>Preview do projeto</h2>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Mobile</strong>  &nbsp;  &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Desktop</strong> </p>
-<p> <img width="200" src="https://github.com/LeoScripts/leitor-de-texto/blob/main/img/iPhone%206_7_8.png" alt=""> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img width="600" src="https://github.com/LeoScripts/leitor-de-texto/blob/main/img/leitorDeTexto-desktop.png" alt=""> </p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Mobile</strong>  </p>
+<p> <img width="200" src="https://github.com/LeoScripts/leitor-de-texto/blob/main/img/iPhone%206_7_8.png" alt=""></p>
+<p> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Desktop</strong></p>
+<p> <img width="400" src="https://github.com/LeoScripts/leitor-de-texto/blob/main/img/leitorDeTexto-desktop.png" alt=""> </p>
 
 <h2>Tecnologias</h2>
 <p><img width="50" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/html.png" alt="">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img width="50" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/css.png" alt="">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  <img width="50" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/js.png" alt="">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img width="50" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/git.png" alt="">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  <img width="50" src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/github1.png" alt=""></p>
@@ -22,14 +24,15 @@ Leitor de texto de uso geral em varios idiomas, mas contruido com o intuito de m
 <a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0F2SEdtZ242M0owdE5xU1EyZFpsSi1YNFpLZ3xBQ3Jtc0tud1VDN3Q1X1FsSXNBYmVYSmxoLVhBRTBnOGZycXpIYXc3X0c0bkFtUWpDYk5NWThSLUhHT1dUc1NKeFI2Z3ZjLUNhUHNHeXU5SEpQOFFtMzR0ZkstdElXdXFvT24yUUlITTQyVnVWN0o3U0pGZDdiSQ&q=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FAPI%2FSpeechSynthesis">SpeechSynthesis</p>
 
 <h2>Bibliografia</h2>
-<p>Este projeto tem como base as aula do professor <a href="https://www.youtube.com/channel/UCmjDevp9Y8r-qi-xueD3Izg">Roger Melo</a></p> 
+Este projeto tem como base as aula do professor  <a href="https://www.youtube.com/channel/UCmjDevp9Y8r-qi-xueD3Izg" > Roger Melo </a>  
+<br>
 Neste link aqui <a href="https://www.youtube.com/watch?v=OY21UokkEYk&t=2750s">Aplicação com JavaScript puro: Como desenvolver um leitor de textos com voz</a>
 
 <h2>Considerações</h2>
-Em primeiro lugar agradeço ao SENHOR JESUS CRISTO por ter me permitido  executar e finalizar este projeto que agregou muito sem contar que me trouxe grande alegria em o ver funcionando, e muito graticante. 
+Em primeiro lugar agradeço ao SENHOR JESUS CRISTO por ter me permitido  executar e finalizar este projeto que agregou muito sem contar que me trouxe grande alegria em o velo funcionando, é muito gratificante. 
 
 <h2>Desenvolvedor</h2>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Leandro Cavalcante</b></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Leandro Cavalcante</b></p>
 <img width="200" src="https://github.com/LeoScripts/logos-imagens/blob/main/fotos/minha%20foto.jpeg" alt="leandro cavalcante">
 
 <p> <a href="https://www.linkedin.com/in/leoscripts/" alt="" target="blanck"><img src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/Favorites/icons8-linkedin-circundado-50.png"/></a> &nbsp;&nbsp;&nbsp; <a href="mailto:leandroguitarjesus89@gmail.com" alt=""target="blanck"><img src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/Favorites/icons8-google-plus-50.png"/></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/LeoScripts"><img src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/Favorites/icons8-github-50-2.png"></a></p>
