@@ -1,7 +1,9 @@
 # leitor de texto
 Leitor de texto de uso geral em varios idiomas, mas contruido com o intuito de me ajudar no inglês e de ensinar meus filhos.
+<p><a href="https://www.linkedin.com/feed/update/urn:li:activity:6830499828921987072/">Video da aplicação em funcionamento<a/></p>
 
 <h2>Preview do projeto</h2>
+
 <p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Mobile</strong>  </p>
 <p> <img width="200" src="https://github.com/LeoScripts/leitor-de-texto/blob/main/img/iPhone%206_7_8.png" alt=""></p>
 <p> &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Desktop</strong></p>
