@@ -29,8 +29,10 @@ Neste link aqui <a href="https://www.youtube.com/watch?v=OY21UokkEYk&t=2750s">Ap
 Em primeiro lugar agradeço ao SENHOR JESUS CRISTO por ter me permitido  executar e finalizar este projeto que agregou muito sem contar que me trouxe grande alegria em o ver funcionando, e muito graticante. 
 
 <h2>Desenvolvedor</h2>
-<p><b>Leandro Cavalcante</b></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Leandro Cavalcante</b></p>
 <img width="200" src="https://github.com/LeoScripts/logos-imagens/blob/main/fotos/minha%20foto.jpeg" alt="leandro cavalcante">
-<p><b>Contato</b></p>
-<p> <a href="" alt=""> &nbsp;&nbsp;&nbsp; <a href="" alt=""> &nbsp;&nbsp;&nbsp; <a href="" alt=""> &nbsp;&nbsp;&nbsp;</p>
+
+<p> <a href="https://www.linkedin.com/in/leoscripts/" alt="" target="blanck"><img src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/Favorites/icons8-linkedin-circundado-50.png"/></a> &nbsp;&nbsp;&nbsp; <a href="mailto:leandroguitarjesus89@gmail.com" alt=""target="blanck"><img src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/Favorites/icons8-google-plus-50.png"/></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/LeoScripts"><img src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/Favorites/icons8-github-50-2.png"></a></p>
+  
+
 
