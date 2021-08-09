@@ -35,7 +35,7 @@ Em primeiro lugar agradeço ao SENHOR JESUS CRISTO por ter me permitido  executa
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Leandro Cavalcante</b></p>
 <img width="200" src="https://github.com/LeoScripts/logos-imagens/blob/main/fotos/minha%20foto.jpeg" alt="leandro cavalcante" target="blank">
 
-<p> <a href="https://www.linkedin.com/in/leoscripts/" alt="" target="blank"><img src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/Favorites/icons8-linkedin-circundado-50.png"/></a> &nbsp;&nbsp;&nbsp; <a href="mailto:leandroguitarjesus89@gmail.com" alt=""target="blank"><img src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/Favorites/icons8-google-plus-50.png"/></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/LeoScripts" target="_blank"><img src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/Favorites/icons8-github-50-2.png"></a></p>
+<p> <a href="https://www.linkedin.com/in/leoscripts/" alt="" target="blank"><img src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/Favorites/icons8-linkedin-circundado-50.png"/></a> &nbsp;&nbsp;&nbsp; <a href="mailto:leandroguitarjesus89@gmail.com" alt=""target="blank"><img src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/Favorites/icons8-google-plus-50.png"/></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/LeoScripts" target="_blanck"><img src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/Favorites/icons8-github-50-2.png"></a></p>
   
 
 
