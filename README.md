@@ -1,5 +1,6 @@
 # leitor de texto
 Leitor de texto de uso geral em varios idiomas, mas contruido com o intuito de me ajudar no inglês e de ensinar meus filhos.
+<p>Pra testar e so clicar 👉 <a href="https://leitor-de-texto.surge.sh/">leitor-de-texto<a>, bom uso</p>
 <p><a href="https://www.linkedin.com/feed/update/urn:li:activity:6830499828921987072/">Video da aplicação em funcionamento<a/></p>
 
 <h2>Preview do projeto</h2>
@@ -33,11 +34,11 @@ Neste link aqui <a href="https://www.youtube.com/watch?v=OY21UokkEYk&t=2750s" ta
 <h2>Considerações</h2>
 Em primeiro lugar agradeço ao SENHOR JESUS CRISTO por ter me permitido  executar e finalizar este projeto que agregou muito sem contar que me trouxe grande alegria em o velo funcionando, é muito gratificante. 
 
-<h2>Desenvolvedor</h2>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Leandro Cavalcante</b></p>
-<img width="200" src="https://github.com/LeoScripts/logos-imagens/blob/main/fotos/minha%20foto.jpeg" alt="leandro cavalcante" target="blank">
 
+
+<h2>Contato</h2>
 <p> <a href="https://www.linkedin.com/in/leoscripts/" alt="" target="blank"><img src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/Favorites/icons8-linkedin-circundado-50.png"/></a> &nbsp;&nbsp;&nbsp; <a href="mailto:leandroguitarjesus89@gmail.com" alt=""target="blank"><img src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/Favorites/icons8-google-plus-50.png"/></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/LeoScripts" target="_blanck"><img src="https://github.com/LeoScripts/logos-imagens/blob/main/logo/Favorites/icons8-github-50-2.png"></a></p>
+<p>Desenvolvido por <b> Leandro Cavalcante </b></p>
   
 
 
