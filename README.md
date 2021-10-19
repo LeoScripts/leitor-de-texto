@@ -1,6 +1,5 @@
 # leitor de texto
 Leitor de texto de uso geral em varios idiomas, mas contruido com o intuito de me ajudar no inglês e de ensinar meus filhos.
-<p>Pra testar e so clicar 👉 <a href="https://leitor-de-texto.surge.sh/">leitor-de-texto<a>, bom uso</p>
 <p><a href="https://www.linkedin.com/feed/update/urn:li:activity:6830499828921987072/">Video da aplicação em funcionamento<a/></p>
 
 <h2>Preview do projeto</h2>
