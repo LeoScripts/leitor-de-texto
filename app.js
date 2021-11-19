@@ -35,6 +35,7 @@ const expressaoHumana = [
     {img:'./img/estudar.jpg', text: 'estudar'}
 ]
 
+
 const textoDigitado = new SpeechSynthesisUtterance()
 const inserindoTexto = text => {
     textoDigitado.text = text
